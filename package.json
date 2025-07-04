@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/bih/google-adk-client-node.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "Bilawal Hameed",
   "type": "commonjs",
   "main": "dist/index.js",
